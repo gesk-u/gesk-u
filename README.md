@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/oona-desk.gif" width="640" alt="a pixel desk at night, Oona watching the screen">
+<img src="assets/oona-desk.gif" width="100%" alt="a pixel desk at night, Oona watching the screen">
 
 # Anastasiia Tkach
 
@@ -30,26 +30,30 @@ const anastasiia = {
   role:      "full-stack developer",
   studying:  "ICT engineering @ Metropolia, Helsinki",
   building:  [
-    "CHORUS", 
-    "LILAC UI", 
-    "ONE BIT STUDIO"
-    ],
-  learning:  ["ML Zoomcamp", "Java", ""],
+    "CHORUS",
+    "LILAC UI",
+    "ONE BIT STUDIO",
+  ],
+  learning:  ["ML Zoomcamp", "Java", "TypeScript"],
   languages: [
-    "English", 
-    "Russian", 
+    "English",
+    "Russian",
     "Ukrainian",
-    "Finnish (B1.1)", 
-    ],
-  wants: "an internship where I ship real things with a real team"
+    "Finnish (B1.1)",
+  ],
+  wants: "an internship where I work on a product people use"
 };
 ```
-I enjoy work that combines technical problem-solving, planning and teamwork, 
-and I care about writing clean, readable code. 
-My first degree was in chemistry. Lab work makes you slow down, write down what you
-did, and check it twice. That habit turned out to transfer.
-Now I’m looking for an internship where I can contribute to real 
-roducts and grow both technically and professionally.
+
+I enjoy work that combines technical problem-solving, planning and teamwork, and I
+care about writing clean, readable code.
+
+I studied chemistry first. 
+I liked taking apart how things worked at a level you can’t see, 
+and software turned out to worrk in the similar way.
+
+Now I'm looking for an internship where I can contribute to real products and grow
+both technically and professionally.
 
 ---
 
@@ -90,9 +94,6 @@ roducts and grow both technically and professionally.
   </tr>
 </table>
 
-<!-- EDIT: fix the three repo URLs to match your actual repo names.
-     Add a demo link next to each "code" link once a project is deployed. -->
-
 Earlier work worth a look:
 
 - **Sanahaku** — finds a Finnish word spoken in YouTube videos and opens the video at
@@ -111,7 +112,7 @@ Earlier work worth a look:
 
 ---
 
-## 06. beyond github
+## 05. beyond github
 
 - First degree in chemistry and biology, before switching to software
 - Native Ukrainian, working in English, learning Finnish from vlogs and real speech
@@ -119,7 +120,7 @@ Earlier work worth a look:
 
 ---
 
-## 07. let's make something useful
+## 06. let's make something useful
 
 I'm looking for a software internship in Finland, starting 2027. If you're building
 something and need someone who'll read the docs, ask the awkward question early and
@@ -127,8 +128,8 @@ leave the codebase tidier than she found it, get in touch.
 
 <div align="center">
 
-[anastasiia.dev](https://anastasiia.dev) · 
-[LinkedIn](https://www.linkedin.com/in/anastasiia-tkach-bb8377397/) · 
+[anastasiia.dev](https://anastasiia.dev) ·
+[LinkedIn](https://www.linkedin.com/in/anastasiia-tkach-bb8377397/) ·
 [Email](mailto:anastasiia.tkach.dev@gmail.com)
 
 <sub>The cat is Oona. She supervises.</sub>
