@@ -104,15 +104,7 @@ Earlier work worth a look:
 
 ---
 
-## 04. contributions
-
-<div align="center">
-  <img src="assets/contrib-grid.svg" width="100%" alt="a year of contributions">
-</div>
-
----
-
-## 05. beyond github
+## 04. beyond github
 
 - First degree in chemistry and biology, before switching to software
 - Native Ukrainian, working in English, learning Finnish from vlogs and real speech
@@ -120,7 +112,7 @@ Earlier work worth a look:
 
 ---
 
-## 06. let's make something useful
+## 05. let's make something useful
 
 I'm looking for a software internship in Finland, starting 2027. If you're building
 something and need someone who'll read the docs, ask the awkward question early and
